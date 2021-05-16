@@ -1,0 +1,2 @@
+*russian*
+__cool__
